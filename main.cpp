@@ -1,3 +1,9 @@
+/*
+    Max Melo and Michael Iacona
+    April 15th, 2018
+    I pledge my honor that I have abided by the Stevens Honor System
+*/
+
 #include <stdlib.h>
 #include <iostream>
 #include <fstream>
